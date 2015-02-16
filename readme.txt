@@ -1,1 +1,3 @@
 this is git shit
+
+I'm altering this file ... 
